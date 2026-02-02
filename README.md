@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👨🏻‍💻Daevid Marron
 
+**`Aspiring Actuarial Analyst`**
 
-**dvmdiv/dvmdiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring actuarial analyst with a strong foundation in probability, statistics, and applied data analysis. I have provided statistical consulting support for academic research and am actively motivated to pursue the actuarial track.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📊 Actuarial Progress
+- ✔ **SOA Exam P** — Passed (January 2026)
+- ⏳ **SOA Exam FM** — Sitting (April 2026)
 
+---
+
+## 🧠 Experience & Focus
+- Statistical consulting for **30+ academic research papers**
+- Applied probability and regression modeling
+- Data-driven analysis for research and decision-making
+
+---
+
+**Programming & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,mysql" />
+</p>
+
+- **R** (primary): data visualization, factor and cluster analysis
+- **Python**: data preprocessing, regression
+- **SQL**: querying and extraction  
+ 
+---
+
+## 🎬 Interests
+- Filmography and video editing 
+
+---
+
+## 🌐 Connect With Me
+<a href="https://www.linkedin.com/in/dvmarron/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+
+---
+
+📌 *Actively building coding projects while preparing for upcoming actuarial exams.*
