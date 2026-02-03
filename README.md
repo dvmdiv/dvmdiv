@@ -21,7 +21,7 @@ I am an aspiring actuarial analyst with a strong foundation in probability, stat
 
 **Programming & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,mysql" />
+  <img src="https://skillicons.dev/icons?i=r,py,mysql&theme=light" />
 </p>
 
 - **R** (primary): data visualization, factor and cluster analysis
