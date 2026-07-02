@@ -8,7 +8,7 @@ I am an aspiring actuarial analyst with a strong foundation in probability, stat
 
 ## 📊 Actuarial Progress
 - ✔ **SOA Exam P** — Passed (January 2026)
-- ⏳ **SOA Exam FM** — Sitting (April 2026)
+- ⏳ **SOA Exam FM** — Passed (April 2026)
 
 ---
 
